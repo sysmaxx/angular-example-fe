@@ -1,0 +1,17 @@
+{
+    "app": {
+        "pages": {
+            "productCatalogue": {
+                "title": "Product Catalogue",
+                "products": {
+                    "data-labels": {
+                        "product": "Product",
+                        "price": "Price",
+                        "description": "Description",
+                        "Last Updated": "Last Updated"
+                    }
+                }
+            }
+        }
+    }
+}

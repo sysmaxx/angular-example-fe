@@ -4,4 +4,5 @@ export interface ProductDto {
     description: string;
     categoryName: string;
     price: number;
+    created: Date;
 }
