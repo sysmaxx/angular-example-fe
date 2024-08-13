@@ -8,7 +8,7 @@
                         "product": "Product",
                         "price": "Price",
                         "description": "Description",
-                        "Last Updated": "Last Updated"
+                        "created": "Created"
                     }
                 }
             }
